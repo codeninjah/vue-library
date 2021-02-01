@@ -20,5 +20,7 @@ body{margin:0;}
   -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
   display: flex;
+  max-width: 1420px;
+  margin: auto;
 }
 </style>
